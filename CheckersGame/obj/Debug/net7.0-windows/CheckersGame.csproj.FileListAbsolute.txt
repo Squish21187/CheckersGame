@@ -1,0 +1,40 @@
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.csproj.AssemblyReference.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame_MarkupCompile.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.exe
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.deps.json
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.runtimeconfig.json
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.dll
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.g.resources
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.AssemblyInfoInputs.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.AssemblyInfo.cs
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.dll
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\refint\CheckersGame.dll
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.genruntimeconfig.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\Новая папка\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\ref\CheckersGame.dll
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.exe
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.deps.json
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.runtimeconfig.json
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.dll
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\bin\Debug\net7.0-windows\CheckersGame.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.csproj.AssemblyReference.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame_MarkupCompile.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.g.resources
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.AssemblyInfoInputs.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.AssemblyInfo.cs
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.dll
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\refint\CheckersGame.dll
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.pdb
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\CheckersGame.genruntimeconfig.cache
+C:\Users\vladm\OneDrive\Рабочий стол\УП\CheckersGame\CheckersGame\obj\Debug\net7.0-windows\ref\CheckersGame.dll

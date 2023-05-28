@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Sprites\b.png" />
+    <None Remove="Sprites\b.win.png" />
+    <None Remove="Sprites\bk.png" />
+    <None Remove="Sprites\IconoCheckers.png" />
+    <None Remove="Sprites\images.jpg" />
+    <None Remove="Sprites\w.png" />
+    <None Remove="Sprites\w.wins.png" />
+    <None Remove="Sprites\wk.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Sprites\b.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\bk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\IconoCheckers.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Sprites\w.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Sprites\wk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>
